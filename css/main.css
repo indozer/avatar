@@ -1,0 +1,76 @@
+.avatar-title {
+  background: url(avatar-2-6235acaebf926.png);
+}
+
+.welcome-title {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+
+  color: #ffffff;
+}
+
+.button {
+  font-family: "HeadlandOne";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 30px;
+  text-align: justify;
+  color: #26c7ea;
+  background: #0b0e66;
+  border: 3px solid #26c7ea;
+  border-radius: 45px 0px;
+}
+
+.avatar-quote {
+  font-family: "HeadlandOne";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 24px;
+  text-align: justify;
+  color: #000000;
+}
+
+.avatar-name {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 29px;
+  text-align: center;
+  color: #000000;
+}
+
+.avatar-learn {
+  font-family: "HeadlandOne";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 40px;
+  text-align: justify;
+  color: #1f2426;
+}
+
+.div-learn {
+  font-family: "HeadlandOne";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 24px;
+  text-align: justify;
+  color: #000000;
+}
+
+.avatar-welcome {
+  font-family: "HeadlandOne";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 30px;
+  text-align: justify;
+  color: #ffffff;
+}
